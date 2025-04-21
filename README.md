@@ -6,7 +6,7 @@ A sleek, animated to-do list app with dark/light theme support, localStorage per
 
 ## 📸 Preview
 
-Tip: Add a live demo link here (e.g., View it on GitHub Pages)
+View it on GitHub Pages at [https://klb-dev.github.io/todoList/](https://klb-dev.github.io/todoList/)
 
 ## 🌟 Features
 
